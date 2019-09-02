@@ -1,2 +1,5 @@
 # Data-structure-and-algorithms
-During my study i wrote all these data structure algorithms implementation program in c++
+There you go, with all these data structure and algorithms implementation programs written in c++ which i programmed during my college days.
+You are welcome to view,use or pull request.
+
+
